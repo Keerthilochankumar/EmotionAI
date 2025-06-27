@@ -22,7 +22,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "EmotionBot - AI Chat Companion",
   description: "A mindful AI companion designed to support emotional well-being.",
-  icons: [{ rel: "icon", url: "/favicon.ico" }],
+  icons: [{ rel: "icon", url: "/logo.png" }],
 };
 
 export default function RootLayout({
